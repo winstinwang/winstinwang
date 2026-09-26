@@ -36,7 +36,7 @@
 - **真实项目里的速度。** 基于 **RK3568 + Android 12** 的医疗设备平台，含外设驱动在内
   **2 个月内完成落地** —— 这是 AI 辅助在真实项目中最直接的体现。
 
-🔗 线上可玩：[贪吃蛇 · AI 一句话生成关卡](https://diyallai.com/games/snake/editor.html)
+🔗 线上可玩：[贪吃蛇 · AI 一句话生成关卡](https://diyallai.com/games/snake/editor)
 
 ---
 
@@ -44,16 +44,26 @@
 
 把项目里真实踩过的坑写成长文，长期更新 · 免费 · 中英双语 → **[diyallai.com](https://diyallai.com)**
 
-- [从零写一个能跑的字符设备驱动](https://diyallai.com/blog/linux-char-device-driver.html)
-- [Linux 内核调试手段全览：从 printk 到 eBPF](https://diyallai.com/blog/kernel-debugging.html)
-- [RTL8125 网卡驱动在 RK3568 Android 12 上的移植调试](https://diyallai.com/blog/rtl8125-nic-driver-porting.html)
-- [Linux 内存管理与 DMA 映射：驱动开发者必须搞懂的缓存一致性](https://diyallai.com/blog/memory-dma.html)
+- [从零写一个能跑的字符设备驱动](https://diyallai.com/blog/linux-char-device-driver)
+- [Linux 内核调试手段全览：从 printk 到 eBPF](https://diyallai.com/blog/kernel-debugging)
+- [中断里为什么不能 sleep：一份真实的 scheduling while atomic 报告，逐行拆给你看](https://diyallai.com/blog/irq-atomic-context)
+- [Linux 内存管理与 DMA 映射：驱动开发者必须搞懂的缓存一致性](https://diyallai.com/blog/memory-dma)
 
-其余 15 篇见 [博客目录](https://diyallai.com/blog/)
+其余 28 篇见 [博客目录](https://diyallai.com/blog/)
 
 **顺手写的网页小游戏**
-- [3D 赛车竞速](https://diyallai.com/games/racing.html) —— 跨局自适应难度的 AI 对手
+- [3D 赛车竞速](https://diyallai.com/games/racing) —— 跨局自适应难度的 AI 对手
 - [可客制化贪吃蛇](https://diyallai.com/games/snake/) —— 带关卡编辑器
+
+---
+
+## 教学视频 · 16 集《Linux 内核开发与调试》
+
+不念 PPT：**每集都在 QEMU 里真跑**，片尾留一条你能自己截图验证的判据。
+从「内核崩了怎么办」一路讲到「中断里为什么不能 sleep」，每集配一篇同题长文。
+**已上线 9 集** · 中文字幕
+
+📺 [合集页（每集简介 + 配套文章）](https://diyallai.com/series/kernel)
 
 ---
 
@@ -62,5 +72,6 @@
 **嵌入式软件工程师 / Android 系统工程师 / Linux 内核开发** —— 内核调试、驱动移植、系统稳定性方向。
 **15 年以上经验**，欢迎内推与交流。
 
-📮 [联系方式](https://diyallai.com/contact.html)
+📮 [联系方式](https://diyallai.com/contact)
+
 
